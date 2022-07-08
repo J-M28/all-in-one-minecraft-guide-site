@@ -19,6 +19,7 @@ The site provides user with information on how to survive their "first night" in
 ## How to Use
 
 https://all-in-one-minecraft-guide.netlify.app
+
 Simply click on the link and access the site!
 
 NOTE: This website does NOT work well with mobile users, and 13" laptop screens. The website
