@@ -18,7 +18,7 @@ The site provides user with information on how to survive their "first night" in
 
 ## How to Use
 
-https://all-in-one-minecraft-guide.netlify.app
+https://all-in-one-minecraft-guide.netlify.app  
 Simply click on the link and access the site!
 
 ## Credits
