@@ -18,7 +18,8 @@ The site provides user with information on how to survive their "first night" in
 
 ## How to Use
 
-TBA - there will be a URL to access the site
+https://all-in-one-minecraft-guide.netlify.app
+Simply click on the link and access the site!
 
 ## Credits
 
