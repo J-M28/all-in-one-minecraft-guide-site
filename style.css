@@ -44,7 +44,7 @@ h2 {
 .header-container nav {
     background-color: #242038;
     box-shadow: 1rem 0.25rem 4rem black;
-    margin-bottom: 4rem;
+    margin: 0;
 }
 
 .header-container nav ul {
@@ -75,6 +75,15 @@ h2 {
 
 .header-container nav ul li a.visited{
     background-color: #8D86C4;
+}
+
+.fansite-banner {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 4rem;
+    color: black;
+    background-color:#F7ECE1;
 }
 
 .content-container, .footer-container{
